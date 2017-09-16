@@ -17,4 +17,4 @@
 I have completed my B.Tech from The Technological Institute of Technology and Sciences, Bhiwani in Computer Science and Engineering in 2013.
 
 # Contact:
-deepak[at]cse[dot]iitm[dot]ac[dot]in
+deepak [at] cse [dot] iitm [dot] ac [dot] in
