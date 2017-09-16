@@ -7,10 +7,14 @@
 </div>
  
 # Work Experience
-I worked in Safent Infotech from June 2013 - Jan 2015 as an Associate Software Engineer.
+<ul>
+<li> Intenrship at IBM Research Lab Bangalore from May 2015 to July 2015.</li>
+<li> Worked in Safenet Infotech (now <a href="https://safenet.gemalto.com/"> Gemalto </a>) as an Associate Software Engineer from July 2013 to Jan 2015.</li>
+<li> Internship at Safenet Infotech (now <a href="https://safenet.gemalto.com/"> Gemalto </a>) from Jan 2013 to June 2013.</li>
+</ul>
 
 # Academic Details
 I have completed my B.Tech from The Technological Institute of Technology and Sciences, Bhiwani in Computer Science and Engineering in 2013.
 
 # Contact:
-deepak [at] cse[dot]iitm[dot]ac[dot]in
+deepak[at]cse[dot]iitm[dot]ac[dot]in
