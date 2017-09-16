@@ -1,4 +1,4 @@
-#theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 title: Deepak Mittal
 description: M.S. Student (CSE)  IIT Madras
 #avatar: https://raw.githubusercontent.com/PrekshaNema25/PrekshaNema25.github.io/master/images/preksha_image.jpg
@@ -79,5 +79,3 @@ exclude:
   - LICENSE
   - README.md
 - CNAME
-
-theme: jekyll-theme-cayman
