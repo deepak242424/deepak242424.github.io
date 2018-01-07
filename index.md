@@ -6,7 +6,7 @@
 <div style = "text-align: justify"> I am currently pursuing my M.S. (Research) under Dr. Balaraman Ravindran and co-guided by Dr. Gitakrishnan Ramadurai at IIT Madras. I joined IIT Madras in Jan 2015. My area of research is Deep learning. Currently my work is focused on model compression and model pruning.
 </div>
  
- # Publications:
+# Publications:
 
 <table width="100%" align="center" border="0" cellspacing="0">
  <tr>
