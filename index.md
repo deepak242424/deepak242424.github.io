@@ -1,5 +1,17 @@
 <head>
-<title> Deepak Mittal </title>
+<title> 
+ <table width="100%" align="center" border="0" cellspacing="0"
+ <tr>
+      <td width="30%">
+        <img src='pruning.gif'>         
+      </td>
+      <td valign="top" width="70%"> 
+        <div style = "text-align: justify"> <h6> Deepak Mittal</h6></div>
+      </td>
+ </tr>
+ 
+ 
+ </title>
 
 </head>
 # About Me
