@@ -11,7 +11,7 @@
 <table width="100%" align="center" border="0" cellspacing="0">
  <tr>
   <td width ="100%" colspan="2">
-    <a href="https://arxiv.org/abs/1704.08300"><h3>Training a Deep Learning Architecture for Vehicle Detection Using Limited \\Heterogeneous Traffic Data</h3></a><font color="grey"><h5><i><b> Accepted at COMSNETS 2018 Workshop on Intelligent Transportation Systems</b></i></h5></font>
+    <a href="https://arxiv.org/abs/1704.08300"><h3>Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data</h3></a><font color="grey"><h5><i><b> Accepted at COMSNETS 2018 Workshop on Intelligent Transportation Systems</b></i></h5></font>
    <font color="black"><h5> Deepak Mittal, Avinash Reddy, Gitakrishnan Ramadurai, Kaushik Mitra, Balaraman Ravindran </h5></font>
     </td>
   
