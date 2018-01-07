@@ -23,6 +23,21 @@
       <td valign="top" width="70%"> 
         <div style = "text-align: justify"> <h6> Video image processing of traffic camera feeds is useful for counting and classifying vehicles, estimating queue length, traffic speed and also for tracking individual vehicles. Unlike homogeneous traffic, heterogeneous traffic includes multiple vehicle types that do not follow lane discipline. Vehicle detection is especially challenging when vehicles are occluded which is common in heterogeneous traffic. Recently \textit{Deep Learning} has shown remarkable promise in solving many computer vision tasks such as object recognition, detection, and tracking. However, training deep learning architectures require huge labeled datasets which are time-consuming and expensive to acquire. We circumvent this problem by data augmentation. By properly augmenting an existing large general (non-traffic) dataset with a small low-resolution heterogeneous traffic dataset (that we collected), we obtain state-of-the-art vehicle detection performance. To the best of our knowledge the collected dataset, named IITM-HeTra, is the first publicly available labeled dataset of heterogeneous traffic.</h6></div>
         </td></tr>
+   <tr>
+  <td width ="100%" colspan="2">
+   <h3>Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data</h3><font color="grey"><h5><i><b> Accepted at COMSNETS 2018 Workshop on Intelligent Transportation Systems</b></i></h5></font>
+   <font color="black"><h5> Deepak Mittal, Avinash Reddy, Gitakrishnan Ramadurai, Kaushik Mitra, Balaraman Ravindran </h5></font>
+    </td>
+  
+   </tr>
+ <tr>
+      <td width="30%">
+      <img src='1_4_1.jpg'>         
+      </td>
+      <td valign="top" width="70%"> 
+        <div style = "text-align: justify"> <h6> Video image processing of traffic camera feeds is useful for counting and classifying vehicles, estimating queue length, traffic speed and also for tracking individual vehicles. Unlike homogeneous traffic, heterogeneous traffic includes multiple vehicle types that do not follow lane discipline. Vehicle detection is especially challenging when vehicles are occluded which is common in heterogeneous traffic. Recently \textit{Deep Learning} has shown remarkable promise in solving many computer vision tasks such as object recognition, detection, and tracking. However, training deep learning architectures require huge labeled datasets which are time-consuming and expensive to acquire. We circumvent this problem by data augmentation. By properly augmenting an existing large general (non-traffic) dataset with a small low-resolution heterogeneous traffic dataset (that we collected), we obtain state-of-the-art vehicle detection performance. To the best of our knowledge the collected dataset, named IITM-HeTra, is the first publicly available labeled dataset of heterogeneous traffic.</h6></div>
+        </td></tr>
+        
    </table>
    
 # Work Experience
