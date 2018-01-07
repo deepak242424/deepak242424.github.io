@@ -3,7 +3,7 @@
  <table width="100%" align="center" border="0" cellspacing="0"
  <tr>
       <td width="30%">
-        <img src='pruning.gif'>         
+        <img src='IMG_20170905_234123.jpg'>         
       </td>
       <td valign="top" width="70%"> 
         <div style = "text-align: justify"> <h6> Deepak Mittal</h6></div>
