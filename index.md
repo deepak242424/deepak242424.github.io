@@ -59,4 +59,4 @@ I have completed my B.Tech from The Technological Institute of Technology and Sc
 # Contact:
 deepak [at] cse [dot] iitm [dot] ac [dot] in
 
- <a href="https://github.com/deepak242424/"> Github </a>Github
+ <a href="https://github.com/deepak242424/"> Github </a>
