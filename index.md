@@ -6,6 +6,8 @@ Deepak Mittal
 # About Me
 <div style = "text-align: justify"> I am currently pursuing my M.S. (Research) under Dr. Balaraman Ravindran and co-guided by Dr. Gitakrishnan Ramadurai at IIT Madras. I joined IIT Madras in Jan 2015. My area of research is Deep learning. Currently my work is focused on model compression and model pruning.
 </div>
+
+<a href="https://github.com/deepak242424/"> Github </a>
  
 # Publications:
 
@@ -59,4 +61,3 @@ I have completed my B.Tech from The Technological Institute of Technology and Sc
 # Contact:
 deepak [at] cse [dot] iitm [dot] ac [dot] in
 
- <a href="https://github.com/deepak242424/"> Github </a>
