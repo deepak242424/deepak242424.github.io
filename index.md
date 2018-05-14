@@ -15,7 +15,7 @@ Deepak Mittal
 <table width="100%" align="center" border="0" cellspacing="0">
  <tr>
   <td width ="100%" colspan="2">
-   <h3>Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks</h3><font color="grey"><h5><i><b> Submitted to IEEE Winter Conference on Applications of Computer Vision (WACV) 2018</b></i></h5></font>
+   <h3>Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks</h3><font color="grey"><h5><i><b> Accepted at IEEE Winter Conference on Applications of Computer Vision (WACV) 2018, <a href="https://arxiv.org/pdf/1801.10447.pdf"> PDF </a></b></i></h5></font>
    <font color="black"><h5> Deepak Mittal, Shweta Bhardwaj, Mitesh M Khapra, Balaraman Ravindran </h5></font>
     </td>
   
@@ -34,7 +34,7 @@ Deepak Mittal
         
    <tr>
   <td width ="100%" colspan="2">
-   <h3>Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data</h3><font color="grey"><h5><i><b> Accepted at COMSNETS 2018 Workshop on Intelligent Transportation Systems</b></i></h5></font>
+   <h3>Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data</h3><font color="grey"><h5><i><b> Accepted at COMSNETS 2018 Workshop on Intelligent Transportation Systems, <a href="https://ieeexplore.ieee.org/document/8328279/"> PDF </a> </b></i></h5></font>
    <font color="black"><h5> Deepak Mittal, Avinash Reddy, Gitakrishnan Ramadurai, Kaushik Mitra, Balaraman Ravindran </h5></font>
     </td>
   
