@@ -9,13 +9,17 @@ Deepak Mittal
 Previous to that I completed my M.S. (Research) under Dr. Balaraman Ravindran and co-guided by Dr. Gitakrishnan Ramadurai at IIT Madras. My thesis was focused on Model compression and Filter Pruning in Deep Convolutional Neteworks. I also worked on Vehicle Detection in Heterogeneous traffic scenarios.
 </div>
 
-   
+<br />
+
 # Publication
 <ul>
- <li> ProAlignNet : Unsupervised Learning for Progressively Aligning Noisy Contours. VSR Veeravasarapu, Abhishek Goel, Deepak Mittal, Maneesh Singh. Accepted at Conference on Computer Vision and Pattern Recognition 2020. </li>
- <li> Studying Plasticity in Deep Convolutional Neural Networks using Random Pruning. Deepak Mittal, Shweta Bhardwaj, Mitesh M Khapra, Balaraman Ravindran. (Invited Paper) Journal of Machine Vision And Applications (MVA 2019) </li>
- <li> Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks. Deepak Mittal, Shweta Bhardwaj, Mitesh M Khapra, Balaraman Ravindran. Accepted at IEEE Winter Conference on Applications of Computer Vision (WACV) 2018.</li>
- <li> Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data. Deepak Mittal, Avinash Reddy, Gitakrishnan Ramadurai, Kaushik Mitra, Balaraman Ravindran. Accepted at COMSNETS 2018 Workshop on Intelligent Transportation Systems.</li>
+ <li> <b> ProAlignNet : Unsupervised Learning for Progressively Aligning Noisy Contours </b>. VSR Veeravasarapu, Abhishek Goel, Deepak Mittal, Maneesh Singh. Accepted at Conference on Computer Vision and Pattern Recognition 2020. </li>
+ <br />
+ <li> <b> Studying Plasticity in Deep Convolutional Neural Networks using Random Pruning </b>. Deepak Mittal, Shweta Bhardwaj, Mitesh M Khapra, Balaraman Ravindran. (Invited Paper) Journal of Machine Vision And Applications (MVA 2019) </li>
+ <br />
+ <li> <b> Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks </b>. Deepak Mittal, Shweta Bhardwaj, Mitesh M Khapra, Balaraman Ravindran. Accepted at IEEE Winter Conference on Applications of Computer Vision (WACV) 2018.</li>
+ <br />
+ <li> <b> Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data </b>. Deepak Mittal, Avinash Reddy, Gitakrishnan Ramadurai, Kaushik Mitra, Balaraman Ravindran. Accepted at COMSNETS 2018 Workshop on Intelligent Transportation Systems.</li>
 </ul>
 
 # Work Experience
