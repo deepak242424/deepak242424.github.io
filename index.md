@@ -24,6 +24,7 @@ Previous to that I completed my M.S. (Research) under Dr. Balaraman Ravindran an
 
 # Work Experience
 <ul>
+<li> Currently working as Machine Learning Engineer at Verisk|AI since August 2018.</li>
 <li> Project Associate at RISE-IIL IIT Madras from Jan 2015 to July 2018 (Sponsored by Ministry of Urban Development and Intel Research).
 <li> Intenrship at IBM Research Lab Bangalore from May 2015 to July 2015.</li>
 <li> Worked in Safenet Infotech (now <a href="https://safenet.gemalto.com/"> Gemalto </a>) as an Associate Software Engineer from July 2013 to Jan 2015.</li>
