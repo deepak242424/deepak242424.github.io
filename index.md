@@ -11,7 +11,7 @@ Previous to that I completed my M.S. (Research) under Dr. Balaraman Ravindran an
 
 <br />
 
-# Publication
+# Publications
 <ul>
  <li> <b> ProAlignNet : Unsupervised Learning for Progressively Aligning Noisy Contours </b>. VSR Veeravasarapu, Abhishek Goel, Deepak Mittal, Maneesh Singh. Accepted at Conference on Computer Vision and Pattern Recognition (CVPR 2020). </li>
  <br />
