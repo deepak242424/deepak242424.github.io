@@ -11,7 +11,6 @@ avatar: https://avatars1.githubusercontent.com/u/3407350?v=3&s=140
 #
 # Flags below are optional
 #
-show_downloads: true
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -20,9 +19,9 @@ footer-links:
   facebook:
   flickr:
   github: deepak242424
-  instagram:
-  linkedin: 
-  pinterest:
+  instagram: "https://scholar.google.co.in/citations?user=p-PdgdYAAAAJ&hl=en"
+  linkedin:  "https://scholar.google.co.in/citations?user=p-PdgdYAAAAJ&hl=en"
+  pinterest: "https://scholar.google.co.in/citations?user=p-PdgdYAAAAJ&hl=en"
   rss: # just type anything here for a working RSS icon
   twitter: #jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
