@@ -22,11 +22,7 @@ Previous to that I completed my M.S. (Research) under Dr. Balaraman Ravindran an
     </td>
   
    </tr>
- <tr>
- <td width ="100%" colspan="2">
-      <img src='pruning.gif'>  
-  </td>
- </tr>
+
  <tr>
  <td width ="100%" colspan="2">
         
@@ -41,12 +37,6 @@ Previous to that I completed my M.S. (Research) under Dr. Balaraman Ravindran an
     </td>
   
    </tr>
- <tr>
-      <td width="30%">
-      <img src='1_4_1.jpg'>         
-      </td>
-      <td valign="top" width="70%"> 
-        </td></tr>
         
    </table>
    
