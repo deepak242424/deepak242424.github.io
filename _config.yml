@@ -11,6 +11,7 @@ avatar: https://avatars1.githubusercontent.com/u/3407350?v=3&s=140
 #
 # Flags below are optional
 #
+show_downloads: true
 
 # Includes an icon in the footer for each username you enter
 footer-links:
