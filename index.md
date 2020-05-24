@@ -22,6 +22,9 @@ Prior to that I completed my M.S. (Research) under the supervision of <a href="h
  <li> <b> Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data </b>. Deepak Mittal, Avinash Reddy, Gitakrishnan Ramadurai, Kaushik Mitra, Balaraman Ravindran. Accepted at (COMSNETS 2018) Workshop on Intelligent Transportation Systems.</li>
 </ul>
 
+# Dissertation
+You can find my M.S. dissertation here: <a href="https://drive.google.com/open?id=1kicn7y6rcqm_IjsccfTmRpkq7jYyDwq3"> Exploring the Plasticity of Deep Convolutional Neural Networks</a>
+
 # Work Experience
 <ul>
 <li> Currently working as Machine Learning Engineer at Verisk|AI since August 2018.</li>
