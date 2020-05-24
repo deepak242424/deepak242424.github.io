@@ -6,7 +6,7 @@ Deepak Mittal
 # About Me
 <div style = "text-align: justify"> I am currently working as Machine Learning Engineer at Verisk|AI Hyderabad. I am working in the intersection of Computer Vision and Learning. I am also exploring Semi Supervised Learning methods in Speech Processing. 
  <br />
-Previous to that I completed my M.S. (Research) under the supervision of Dr. Balaraman Ravindran and co-guided by Dr. Gitakrishnan Ramadurai at IIT Madras. My thesis was focused on Model compression and Filter Pruning in Deep Convolutional Neteworks. I also worked on Vehicle Detection in Heterogeneous traffic scenarios. My M.S. research was sponsored by Intel India Research.
+Previous to that I completed my M.S. (Research) under the supervision of Dr. Balaraman Ravindran and co-guided by Dr. Gitakrishnan Ramadurai from Department of Computer Science and Technology, IIT Madras. My thesis was focused on Model compression and Filter Pruning in Deep Convolutional Neteworks. I also worked on Vehicle Detection in Heterogeneous traffic scenarios. My M.S. research was sponsored by Intel India Research.
 </div>
 
 <br />
