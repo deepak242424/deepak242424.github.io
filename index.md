@@ -17,18 +17,22 @@ Prior to that I completed my M.S. (Research) under the supervision of <a href="h
  <br />
  <li> <b> Studying Plasticity in Deep Convolutional Neural Networks using Random Pruning </b>. Deepak Mittal, Shweta Bhardwaj, Mitesh M Khapra, Balaraman Ravindran. (Invited Paper) Journal of Machine Vision And Applications (MVA 2019) </li>
  <br />
- <li> <b> Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks </b>. Deepak Mittal*, Shweta Bhardwaj*, Mitesh M Khapra, Balaraman Ravindran. Accepted at IEEE Winter Conference on Applications of Computer Vision (WACV) 2018.</li>
+ <li> <b> Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks </b>. Deepak Mittal*, Shweta Bhardwaj*, Mitesh M Khapra, Balaraman Ravindran. Accepted at IEEE Winter Conference on Applications of Computer Vision (WACV 2018).</li>
  <br />
- <li> <b> Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data </b>. Deepak Mittal, Avinash Reddy, Gitakrishnan Ramadurai, Kaushik Mitra, Balaraman Ravindran. Accepted at COMSNETS 2018 Workshop on Intelligent Transportation Systems.</li>
+ <li> <b> Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data </b>. Deepak Mittal, Avinash Reddy, Gitakrishnan Ramadurai, Kaushik Mitra, Balaraman Ravindran. Accepted at (COMSNETS 2018) Workshop on Intelligent Transportation Systems.</li>
 </ul>
 
 # Work Experience
 <ul>
 <li> Currently working as Machine Learning Engineer at Verisk|AI since August 2018.</li>
-<li> Project Associate at RISE-IIL IIT Madras from Jan 2015 to July 2018 (Sponsored by Ministry of Urban Development and Intel Research).
+ <br />
+<li> Project Associate at RISE-IIL IIT Madras from Jan 2015 to July 2018 (Sponsored by Ministry of Urban Development and Intel Research).</li>
+ <br />
 <li> Intenrship at IBM Research Lab Bangalore from May 2015 to July 2015.</li>
-<li> Worked in Safenet Infotech (now <a href="https://safenet.gemalto.com/"> Gemalto </a>) as an Associate Software Engineer from July 2013 to Jan 2015.</li>
-<li> Internship at Safenet Infotech (now <a href="https://safenet.gemalto.com/"> Gemalto </a>) from Jan 2013 to June 2013.</li>
+ <br />
+<li> Worked in Safenet Infotech (now <a href="https://www.thalesgroup.com/en"> Thales</a>) as an Associate Software Engineer from July 2013 to Jan 2015.</li>
+ <br />
+<li> Internship at Safenet Infotech (now <a href="https://www.thalesgroup.com/en"> Thales</a>) from Jan 2013 to June 2013.</li>
 </ul>
 
 # Contact:
