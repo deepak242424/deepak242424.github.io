@@ -13,6 +13,8 @@ Prior to that I completed my M.S. (Research) under the supervision of <a href="h
 
 # Publications
 <ul>
+ <li> <b> Perturb, Predict & Paraphrase: Semi-supervised Learning using Noisy Student for Image Captioning </b>. Arjit Jain, Pranay Reddy Samala, Deepak Mittal, Preethi Jyothi, Maneesh Singh. Accepted at the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021). </li>
+ <br />
  <li> <b> ProAlignNet : Unsupervised Learning for Progressively Aligning Noisy Contours </b>. VSR Veeravasarapu, Abhishek Goel, Deepak Mittal, Maneesh Singh. Accepted at Conference on Computer Vision and Pattern Recognition (CVPR 2020). </li>
  <br />
  <li> <b> Studying Plasticity in Deep Convolutional Neural Networks using Random Pruning </b>. Deepak Mittal, Shweta Bhardwaj, Mitesh M Khapra, Balaraman Ravindran. (Invited Paper) Journal of Machine Vision And Applications (MVA 2019) </li>
