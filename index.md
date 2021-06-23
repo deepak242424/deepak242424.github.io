@@ -13,7 +13,7 @@ Prior to that I completed my M.S. (Research) under the supervision of <a href="h
 
 # Publications
 <ul>
- <li> <b>  Investigating Feature Selection and Explainability for COVID-19 Diagnostics from Cough Sounds </b>. Flavio Avila, Amir H. Poorjam, Deepak Mittal, Charles Dognin, Ananya Muguli, Rohit Kumar,Srikanth Raj Chetupalli, Sriram Ganapathy and Maneesh Singh. Accepted at Interspeech 2021, Czech Republic, September 2020. </li>
+ <li> <b>  Investigating Feature Selection and Explainability for COVID-19 Diagnostics from Cough Sounds </b>. Flavio Avila, Amir H. Poorjam, Deepak Mittal, Charles Dognin, Ananya Muguli, Rohit Kumar,Srikanth Raj Chetupalli, Sriram Ganapathy and Maneesh Singh. Accepted at Interspeech 2021, Czech Republic, September 2021. </li>
  <br />
  
  <li> <b>  The Effect of Pretraining on Extractive Summarization for Scientific Documents </b>. Yash Gupta, Pawan Sasanka Ammanamanchi, Shikha Bordia, Arjun Manoharan, Deepak Mittal, Ramakanth Pasunuru, Manish Shrivastava, Maneesh Singh, Mohit Bansal and Preethi Jyothi. Accepted at 2nd workshop on Scholarly Document Processing at NAACL 2021. </li>
