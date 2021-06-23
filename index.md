@@ -13,7 +13,13 @@ Prior to that I completed my M.S. (Research) under the supervision of <a href="h
 
 # Publications
 <ul>
- <li> <b> Perturb, Predict & Paraphrase: Semi-supervised Learning using Noisy Student for Image Captioning </b>. Arjit Jain, Pranay Reddy Samala, Deepak Mittal, Preethi Jyothi, Maneesh Singh. Accepted at the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021). </li>
+ <li> <b>  Investigating Feature Selection and Explainability for COVID-19 Diagnostics from Cough Sounds </b>. Flavio Avila, Amir H. Poorjam, Deepak Mittal, Charles Dognin, Ananya Muguli, Rohit Kumar,Srikanth Raj Chetupalli, Sriram Ganapathy and Maneesh Singh. Accepted at Interspeech 2021, Czech Republic, September 2020. </li>
+ <br />
+ 
+ <li> <b>  The Effect of Pretraining on Extractive Summarization for Scientific Documents </b>. Yash Gupta, Pawan Sasanka Ammanamanchi, Shikha Bordia, Arjun Manoharan, Deepak Mittal, Ramakanth Pasunuru, Manish Shrivastava, Maneesh Singh, Mohit Bansal and Preethi Jyothi</li>
+ <br />
+ 
+ <li> <b> Perturb, Predict & Paraphrase: Semi-supervised Learning using Noisy Student for Image Captioning </b>. Arjit Jain, Pranay Reddy Samala, Preethi Jyothi, Deepak Mittal, Maneesh Singh. Accepted at the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021). </li>
  <br />
  <li> <b> ProAlignNet : Unsupervised Learning for Progressively Aligning Noisy Contours </b>. VSR Veeravasarapu, Abhishek Goel, Deepak Mittal, Maneesh Singh. Accepted at Conference on Computer Vision and Pattern Recognition (CVPR 2020). </li>
  <br />
