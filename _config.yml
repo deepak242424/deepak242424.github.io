@@ -1,7 +1,7 @@
 # theme: jekyll-theme-cayman
 theme: jekyll-theme-minimal
 title: Deepak Mittal
-description: Machine Learning Engineer At Verisk|AI
+description: Machine Learning Engineer II At Verisk|AI
 logo: logo.jpeg
 #avatar: https://raw.githubusercontent.com/PrekshaNema25/PrekshaNema25.github.io/master/images/preksha_image.jpg
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -20,7 +20,7 @@ footer-links:
   flickr:
   github: deepak242424
   instagram: "https://scholar.google.co.in/citations?user=p-PdgdYAAAAJ&hl=en"
-  linkedin:  "https://scholar.google.co.in/citations?user=p-PdgdYAAAAJ&hl=en"
+  linkedin:  deepak-mittal-1775ab58
   pinterest: "https://scholar.google.co.in/citations?user=p-PdgdYAAAAJ&hl=en"
   rss: # just type anything here for a working RSS icon
   twitter: #jekyllrb
