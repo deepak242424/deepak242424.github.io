@@ -13,6 +13,9 @@ Prior to that I completed my M.S. (Research) under the supervision of <a href="h
 
 # Publications
 <ul>
+ <li> <b>  DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning</b>. Sreyan Ghosh, Ashish Seth, Deepak Mittal, Maneesh Singh and S. Umesh. Accepted at The 2nd Workshop on Self-supervised Learning for Audio and Speech Processing, AAAI 2022. </li>
+ <br />
+ 
  <li> <b>  Investigating Feature Selection and Explainability for COVID-19 Diagnostics from Cough Sounds </b>. Flavio Avila, Amir H. Poorjam, Deepak Mittal, Charles Dognin, Ananya Muguli, Rohit Kumar,Srikanth Raj Chetupalli, Sriram Ganapathy and Maneesh Singh. Accepted at Interspeech 2021, Czech Republic, September 2021. </li>
  <br />
  
