@@ -53,5 +53,5 @@ You can find my M.S. dissertation here: <a href="https://drive.google.com/open?i
 </ul>
 
 # Contact:
-deepak [at] cse [dot] iitm [dot] ac [dot] in
+deepak [at] cse [dot] iitm [dot] ac [dot] in.
 
