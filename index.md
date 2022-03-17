@@ -13,6 +13,9 @@ I am also a first year PhD (External) scholar at the <a href="https://ai.iith.ac
 
 # Publications
 <ul>
+ <li> <b>  SPLICEOUT: A Simple and Efficient Audio Augmentation Method</b>. Arjit Jain, Pranay Reddy Samala, Deepak Mittal, Preethi Jyothi, Maneesh Singh. [Under Submission]. [<a href="https://arxiv.org/pdf/2110.00046.pdf"> Paper </a>]</li>
+ <br />
+ 
  <li> <b>  DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning</b>. Sreyan Ghosh, Ashish Seth, Deepak Mittal, Maneesh Singh and S. Umesh. Accepted at The 2nd Workshop on Self-supervised Learning for Audio and Speech Processing, AAAI 2022. </li>
  <br />
  
