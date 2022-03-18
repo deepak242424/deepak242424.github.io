@@ -31,9 +31,9 @@ I am also a first year PhD (External) scholar at the <a href="https://ai.iith.ac
  <br />
  <li> <b> Studying Plasticity in Deep Convolutional Neural Networks using Random Pruning </b>. Deepak Mittal, Shweta Bhardwaj, Mitesh M Khapra, Balaraman Ravindran. (Invited Paper) Journal of Machine Vision And Applications (MVA 2019). [<a href="https://arxiv.org/pdf/1812.10240?ref=https://githubhelp.com">Paper</a>]</li>
  <br />
- <li> <b> Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks </b>. Deepak Mittal*, Shweta Bhardwaj*, Mitesh M Khapra, Balaraman Ravindran. Accepted at IEEE Winter Conference on Applications of Computer Vision (WACV 2018). [<a href="https://arxiv.org/pdf/1801.10447?ref=https://githubhelp.com">Paper</a>]</li>
+ <li> <b> Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks </b>. Deepak Mittal*, Shweta Bhardwaj*, Mitesh M Khapra, Balaraman Ravindran. Accepted at IEEE Winter Conference on Applications of Computer Vision (WACV 2018). [<a href="https://arxiv.org/pdf/1801.10447?ref=https://githubhelp.com">Paper</a>][<a href="https://github.com/shwetabhardwaj44/RecoveringFrom_RandomPruning_WACV2018">Code</a>]</li>
  <br />
- <li> <b> Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data </b>. Deepak Mittal, Avinash Reddy, Gitakrishnan Ramadurai, Kaushik Mitra, Balaraman Ravindran. Accepted at (COMSNETS 2018) Workshop on Intelligent Transportation Systems. [<a href="https://ieeexplore.ieee.org/abstract/document/8328279">Paper</a>]</li>
+ <li> <b> Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data </b>. Deepak Mittal, Avinash Reddy, Gitakrishnan Ramadurai, Kaushik Mitra, Balaraman Ravindran. Accepted at (COMSNETS 2018) Workshop on Intelligent Transportation Systems. [<a href="https://ieeexplore.ieee.org/abstract/document/8328279">Paper</a>][<a href="https://www.kaggle.com/datasets/deepak242424/iitmhetra">Dataset</a>]</li>
 </ul>
 
 # Dissertation
