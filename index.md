@@ -13,6 +13,10 @@ I am also a first year PhD (External) scholar at the <a href="https://ai.iith.ac
 
 # Publications
 <ul>
+
+  <li> <b>  Acoustic Representation Learning on Breathing and Speech Signals for COVID-19 Detection</b>. Debottam Dutta, Debarpan Bhattacharya, Sriram Ganapathy, Amir Poorjam, Deepak Mittal,  Maneesh Singh. [Under Submission]. </li>
+ <br />
+ 
  <li> <b>  SPLICEOUT: A Simple and Efficient Audio Augmentation Method</b>. Arjit Jain, Pranay Reddy Samala, Deepak Mittal, Preethi Jyothi, Maneesh Singh. [Under Submission]. [<a href="https://arxiv.org/pdf/2110.00046.pdf">Paper</a>]</li>
  <br />
  
