@@ -4,7 +4,7 @@ Deepak Mittal
  </title>
 </head>
 # About Me
-<div style = "text-align: justify"> I am currently working as Machine Learning Engineer at Verisk|AI Hyderabad. I am working in the intersection of Computer Vision and Deep Learning. I am also exploring Self Supervised Learning methods in Speech Processing. 
+<div style = "text-align: justify"> I am currently working as Master Data Scientist II at AI Center of Excellence, Deloitte. I am working in the intersection of Computer Vision and Deep Learning. I am also exploring Self Supervised Learning methods in Speech Processing. 
  <br />
 I am also a first year PhD (External) scholar at the <a href="https://ai.iith.ac.in/">Department of Artificial Intelligence</a>, <a href="https://iith.ac.in/">Indian Institute of Technology, Hyderabad</a> under the supervision of <a href="https://www.iith.ac.in/~vineethnb/">Dr. Vineeth N Balasubramanian</a>. Prior to that I completed my M.S. (Research) under the supervision of <a href="https://www.cse.iitm.ac.in/~ravi/"> Dr. Balaraman Ravindran </a> and co-guided by <a href="https://civil.iitm.ac.in/?page_id=848"> Dr. Gitakrishnan Ramadurai </a> from the <a href="https://www.cse.iitm.ac.in/"> Department of Computer Science and Technology </a>, <a href="https://www.iitm.ac.in/"> Indian Institute of Technology Madras </a>. My thesis was focused on Model compression and Filter Pruning in Deep Convolutional Networks. I also worked on Vehicle Detection in Heterogeneous traffic scenarios. My M.S. research was sponsored by Intel India Research.
 </div>
@@ -45,7 +45,7 @@ You can find my M.S. dissertation here: <a href="https://drive.google.com/open?i
 
 # Work Experience
 <ul>
-<li> Currently working as Machine Learning Engineer at Verisk|AI since August 2018.</li>
+<li> Worked as Machine Learning Engineer II at Verisk|AI from August 2018 to April 2022.</li>
  <br />
 <li> Project Associate at RISE-IIL IIT Madras from Jan 2015 to July 2018 (Sponsored by Ministry of Urban Development and Intel Research).</li>
  <br />
