@@ -10,7 +10,6 @@ I am also a first year PhD (External) scholar at the <a href="https://ai.iith.ac
 </div>
 
 <br />
-
 [<a href="https://scholar.google.co.in/citations?user=p-PdgdYAAAAJ&hl=en">Google Scholar</a>] [<a href="https://www.linkedin.com/in/deepak-mittal-1775ab58">LinkedIn</a>]
 
 # Publications 
