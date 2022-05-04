@@ -12,7 +12,7 @@ I am also a first year PhD (External) scholar at the <a href="https://ai.iith.ac
 <br />
 
 # Publications 
-[<a href="https://scholar.google.co.in/citations?user=p-PdgdYAAAAJ&hl=en">Google Scholar</a>] [<a href=https://www.linkedin.com/in/deepak-mittal-1775ab58/LinkedIn</a>]
+[<a href="https://scholar.google.co.in/citations?user=p-PdgdYAAAAJ&hl=en">Google Scholar</a>] [<a href="https://www.linkedin.com/in/deepak-mittal-1775ab58">LinkedIn</a>]
 <ul>
 
   <li> <b>  Acoustic Representation Learning on Breathing and Speech Signals for COVID-19 Detection</b>. Debottam Dutta, Debarpan Bhattacharya, Sriram Ganapathy, Amir Poorjam, Deepak Mittal,  Maneesh Singh. [Under Submission]. </li>
