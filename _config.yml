@@ -32,10 +32,17 @@ footer-links:
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
-googlescholar:           "https://scholar.google.co.in/citations?user=p-PdgdYAAAAJ&hl=en"
+
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
-
+author: 
+  name             : "Deepak Mittal"
+  avatar           : 
+  bio              : "AI/ML Researcher"
+  location         : "India"
+  employer         :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar:           "https://scholar.google.co.in/citations?user=p-PdgdYAAAAJ&hl=en"
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://deepak242424.github.io
