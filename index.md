@@ -15,16 +15,16 @@ I am also a first year PhD (External) scholar at the <a href="https://ai.iith.ac
 # Publications 
 <ul>
 
-  <li> <b>  Acoustic Representation Learning on Breathing and Speech Signals for COVID-19 Detection</b>. Debottam Dutta, Debarpan Bhattacharya, Sriram Ganapathy, Amir Poorjam, Deepak Mittal,  Maneesh Singh. [Under Submission]. </li>
+  <li> <b>  Acoustic Representation Learning on Breathing and Speech Signals for COVID-19 Detection</b>. Debottam Dutta, Debarpan Bhattacharya, Sriram Ganapathy, Amir Poorjam, Deepak Mittal,  Maneesh Singh.  Proceedings of Interspeech (23rd Annual Conference of ISCA), 2022. </li>
  <br />
  
- <li> <b>  SPLICEOUT: A Simple and Efficient Audio Augmentation Method</b>. Arjit Jain, Pranay Reddy Samala, Deepak Mittal, Preethi Jyothi, Maneesh Singh. [Under Submission]. [<a href="https://arxiv.org/pdf/2110.00046.pdf">Paper</a>]</li>
+ <li> <b>  SPLICEOUT: A Simple and Efficient Audio Augmentation Method</b>. Arjit Jain, Pranay Reddy Samala, Deepak Mittal, Preethi Jyothi, Maneesh Singh. Proceedings of Interspeech (23rd Annual Conference of ISCA), 2022. [<a href="https://arxiv.org/pdf/2110.00046.pdf">Paper</a>]</li>
  <br />
  
  <li> <b>  DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning</b>. Sreyan Ghosh, Ashish Seth, Deepak Mittal, Maneesh Singh and S. Umesh. Accepted at The 2nd Workshop on Self-supervised Learning for Audio and Speech Processing, AAAI 2022. [<a href="https://aaai-sas-2022.github.io/static/media/aaai_delores_final.499ddb39.pdf">Paper</a>]</li>
  <br />
  
- <li> <b>  Investigating Feature Selection and Explainability for COVID-19 Diagnostics from Cough Sounds </b>. Flavio Avila, Amir H. Poorjam, Deepak Mittal, Charles Dognin, Ananya Muguli, Rohit Kumar,Srikanth Raj Chetupalli, Sriram Ganapathy and Maneesh Singh. Accepted at Interspeech 2021, Czech Republic, September 2021. [<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/avila21_interspeech.pdf">Paper</a>]</li>
+ <li> <b>  Investigating Feature Selection and Explainability for COVID-19 Diagnostics from Cough Sounds </b>. Flavio Avila, Amir H. Poorjam, Deepak Mittal, Charles Dognin, Ananya Muguli, Rohit Kumar,Srikanth Raj Chetupalli, Sriram Ganapathy and Maneesh Singh. Proceedings of Interspeech (22nd Annual Conference of ISCA), 2021. [<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/avila21_interspeech.pdf">Paper</a>]</li>
  <br />
  
  <li> <b>  The Effect of Pretraining on Extractive Summarization for Scientific Documents </b>. Yash Gupta, Pawan Sasanka Ammanamanchi, Shikha Bordia, Arjun Manoharan, Deepak Mittal, Ramakanth Pasunuru, Manish Shrivastava, Maneesh Singh, Mohit Bansal and Preethi Jyothi. Accepted at 2nd workshop on Scholarly Document Processing at NAACL 2021. [<a href="https://aclanthology.org/2021.sdp-1.9/">Paper</a>]</li>
